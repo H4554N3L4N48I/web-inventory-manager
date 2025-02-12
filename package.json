@@ -1,0 +1,26 @@
+{
+  "name": "web-inventory-manager",
+  "version": "0.1.0",
+  "description": "Web-based Inventory Management System",
+  "keywords": [
+    "inventory",
+    "web",
+    "nodejs",
+    "expressjs"
+  ],
+  "homepage": "https://github.com/H4554N3L4N48I/web-inventory-manager#readme",
+  "bugs": {
+    "url": "https://github.com/H4554N3L4N48I/web-inventory-manager/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H4554N3L4N48I/web-inventory-manager.git"
+  },
+  "license": "MIT",
+  "author": "Hassan El anabi",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo TODO"
+  }
+}
